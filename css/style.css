@@ -186,7 +186,7 @@ a:focus{
     font-size: 22px;
     text-align: center;
     background-image: linear-gradient(#00000020, #2f303a40),
-    url(../images/img17@1x.jpg);
+    url(../images/Img17@1x.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     line-height: 42px;
@@ -1071,7 +1071,7 @@ a:focus{
 
 @media (min-resolution: 192dpi) {
     .title {
-        background-image: url(../images/header-background@2x.jpg);
+        background-image: url(../images/Img17@2x.jpg);
     }
 }
 
