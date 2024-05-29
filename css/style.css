@@ -1069,7 +1069,7 @@ a:focus{
     position: absolute;
 }
 
-@media (min-resolution: 192dpi) {
+@media (min-resolution: 192px) {
     .title {
         background-image: url(../images/Img17@2x.jpg);
     }
