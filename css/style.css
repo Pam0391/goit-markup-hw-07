@@ -1075,7 +1075,7 @@ a:focus{
     }
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 428px) {
     .js-open-menu {
         display: block;
     }
@@ -1085,7 +1085,7 @@ a:focus{
     }
 }
 
-@media screen and (min-width:429px) and (max-width:768px) {
+@media screen and (min-width:428px) and (max-width:768px) {
     .hero__section__container {
         margin: 0 auto;
     }
